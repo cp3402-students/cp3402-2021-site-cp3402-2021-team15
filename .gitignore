@@ -1,0 +1,8 @@
+
+# JetBrain
+/.idea/
+
+# WordPress
+/wp-admin/
+/wp-includes/
+/wp-config.php
