@@ -71,7 +71,7 @@ html {
 	margin-right: 10%;
 	line-height: 1.15;
 	-webkit-text-size-adjust: 100%;
-	background: grey;
+	background: white;
 }
 
 /* Sections
@@ -89,6 +89,7 @@ body {
  */
 main {
 	display: block;
+	padding-top: 10%;
 }
 
 /**
@@ -96,9 +97,7 @@ main {
  * `article` contexts in Chrome, Firefox, and Safari.
  */
 h1 {
-	font-size: 2em;
-	margin: 0.67em 0;
-	background-color: grey;
+	font-size: 3em;
 }
 
 /* Grouping content
@@ -110,7 +109,7 @@ h1 {
  */
 hr {
 	box-sizing: content-box;
-	height: 0;
+	height: 100;
 	overflow: visible;
 }
 
@@ -406,7 +405,7 @@ input,
 select,
 optgroup,
 textarea {
-	color: #404040;
+	color: black;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 	font-size: 1rem;
 	line-height: 1.5;
@@ -476,7 +475,7 @@ big {
 /* Elements
 --------------------------------------------- */
 body {
-	background: grey;
+	background: white;
 }
 
 hr {
@@ -537,17 +536,17 @@ table {
 /* Links
 --------------------------------------------- */
 a {
-	color: #4169e1;
+	color: black;
 }
 
 a:visited {
-	color: #800080;
+	color: black;
 }
 
 a:hover,
 a:focus,
 a:active {
-	color: #191970;
+	color: gold;
 }
 
 a:focus {
