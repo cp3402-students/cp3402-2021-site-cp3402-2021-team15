@@ -458,7 +458,7 @@ var {
 
 abbr,
 acronym {
-	border-bottom: 1px dotted #666;
+	border-bottom: 1px dotted white;
 	cursor: help;
 }
 
