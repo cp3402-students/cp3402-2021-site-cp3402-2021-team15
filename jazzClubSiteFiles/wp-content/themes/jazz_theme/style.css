@@ -107,11 +107,6 @@ h2 {
 	margin-right: 10%;
 }
 
-.wp-block-webfactory-map {
-	margin-left: 10%;
-	margin-right :10%;
-}
-
 .ub-expand-toggle-button {
 	margin-left: 10%;
 	margin-right: 10%;
@@ -123,6 +118,11 @@ h2 {
 }
 
 .wpforms-container {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.wpforms-form {
 	margin-left: 10%;
 	margin-right: 10%;
 }
@@ -876,6 +876,12 @@ textarea {
 	margin-bottom: 0;
 	margin-top: 0;
 	padding: 0;
+
+}
+
+.entry-content{
+	margin-left: 10%;
+	margin-right: 10%;
 }
 
 /* Make sure logo link wraps around logo image. */
