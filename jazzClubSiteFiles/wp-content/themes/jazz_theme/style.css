@@ -107,7 +107,23 @@ h2 {
 	margin-right: 10%;
 }
 
+.wp-block-webfactory-map {
+	margin-left: 10%;
+	margin-right :10%;
+}
+
 .ub-expand-toggle-button {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.wp-block-group {
+	margin-left: 10%;
+	margin-right: 10%;
+	align-content: center;
+}
+
+.wpforms-container {
 	margin-left: 10%;
 	margin-right: 10%;
 }
