@@ -11,6 +11,11 @@
 
 ?>
 
+<?php wp_footer(); 
+    if (is_active_sidebar( 'footer-1' )) {
+        dynamic_sidebar( 'footer-1' );
+    }?>
+
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
 			<span class="sep"> | </span>
@@ -21,8 +26,6 @@
 		</div><!-- .site-info -->
 	</footer><!-- #colophon -->
 </div><!-- #page -->
-
-<?php wp_footer(); ?>
 
 </body>
 </html>

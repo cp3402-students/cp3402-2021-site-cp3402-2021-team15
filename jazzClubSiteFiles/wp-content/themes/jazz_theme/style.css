@@ -120,7 +120,6 @@ h2 {
 .wp-block-group {
 	margin-left: 10%;
 	margin-right: 10%;
-	align-content: center;
 }
 
 .wpforms-container {
@@ -132,8 +131,16 @@ h2 {
 	display: none;
 }
 
-footer {
+/* Adjustments for footer */
+.widget_text {
+	margin-top: 50px;
+	margin-bottom: 50px;
 	background-color: black;
+	color: white;
+	
+}
+
+footer {
 	margin-left: 0%;
 	margin-right: 0%;
 }

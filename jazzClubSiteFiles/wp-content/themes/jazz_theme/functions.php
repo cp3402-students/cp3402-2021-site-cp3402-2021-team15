@@ -124,7 +124,7 @@ add_action( 'after_setup_theme', 'jazz_theme_content_width', 0 );
 function jazz_theme_widgets_init() {
 	register_sidebar(
 		array(
-			'name'          => esc_html__( 'Sidebar', 'jazz_theme' ),
+			'name'          => esc_html__( 'Footer', 'jazz_theme' ),
 			'id'            => 'sidebar-1',
 			'description'   => esc_html__( 'Add widgets here.', 'jazz_theme' ),
 			'before_widget' => '<section id="%1$s" class="widget %2$s">',
@@ -134,6 +134,9 @@ function jazz_theme_widgets_init() {
 		)
 	);
 }
+
+
+
 add_action( 'widgets_init', 'jazz_theme_widgets_init' );
 
 /**
