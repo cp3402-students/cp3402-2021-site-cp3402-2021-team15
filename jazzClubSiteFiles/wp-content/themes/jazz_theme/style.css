@@ -102,6 +102,26 @@ h1 {
 	font-size: 3em;
 }
 
+h2 {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.ub-expand-toggle-button {
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.entry-footer {
+	display: none;
+}
+
+footer {
+	background-color: black;
+	margin-left: 0%;
+	margin-right: 0%;
+}
+
 /* Grouping content
 	 ========================================================================== */
 
