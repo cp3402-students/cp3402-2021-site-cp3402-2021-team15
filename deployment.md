@@ -1,16 +1,15 @@
 # Creation and editing
 
-The website was created using WordPress’s offline environment. This local environment was facilitated using Xampp  (cross platform, Apache, Mysql, php and perl).  The team used GitHub for version control. The website database was managed using MyPhpAdmin to import the database from version control to the local environment. 
+The website was created using WordPress’s offline environment. This local environment was facilitated using Xampp (cross platform, Apache, Mysql, php and perl).  The team used GitHub for version control. The websites database was managed using MyPhpAdmin to import the database from version control, to the local environment. 
 
 # Teamwork
 
-To keep track of work that had been done and needed to be done the development team employed the use of a Trello board. A slack channel was also used for greater communication between stand up meetings.
-The team saw no issue or problems with Trello or Slack, both applications work flawlessly from day one.
+To keep track of work that had been done and needed to be done the development team employed the use of a Trello board. Slack was used to keep track of tasks through trello integration, but Discord was our main form of communication. The team saw no issue or problems with Trello or Slack, both applications work flawlessly from day one.
 Communication is key if development involves multiple members, they must communicate between each other as to who is editing the site and when they have finalised the changes that they have been made.
 
 # Version Control issues
 
-Local development with Xampp was decided upon after trying several other local development options. Xampp had almost no issues besides wp login confusion. The group struggled with version control the most. The team experimented with just sending a compressed folder of the website from one to another however this incurred problems with the database and the admin privileges. Other team members could not log in. Git hub provided a means to alleviated these problems however it only allows a max upload size of 25mb and 100 files. The team worked around this by opting to use Github desktop. 
+Local development with Xampp was decided upon after trying several other local development options. Xampp had almost no issues besides wp login confusion. The group struggled with version control the most. The team experimented with just sending a compressed folder of the website from one to another however this incurred problems with the database and the admin privileges. Other team members could not log in. Git hub provided as a means to alleviate these problems however it only allows a max upload size of 25mb and 100 files. The team worked around this by opting to use Github desktop. 
 
 # How to develop locally without database corruption
 

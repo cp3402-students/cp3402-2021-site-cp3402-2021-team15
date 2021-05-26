@@ -9,20 +9,14 @@ The original development of the site was performed by four students, collaborati
 This project aims to develop and deploy a website using WordPress for a client (townsville jazz club inc).
 The website is designed using the team own custom theme that was developed from a "starter theme".
 this project demonstrated modern collaborative development and deployment workflow.
-Project
 
 ## requirements
 
-To continue work on the project a text editor and access to the sites server and database are arguably the only absolute requirements. The team did use numerous other applications and technologies that would be recommended for a streamlined workflow. 
+To continue work on the project, a text editor and access to the sites database is required. The team did use numerous other applications and technologies that would be recommended for a streamlined workflow. 
     Github was very useful version control provider
     Visual Studio code was used as a code editor for php, html, Js and Css. It also has GitHub integration available that the team utilized. 
     Xampp provided a local development environment stack and allows that team to work across different operating systems.
     GoDaddy was used for hosting of the website.
-    
-    Trello is an online Kanban-style task board that was used for setting clear tasks that the team members work on.
-    Slack was used for team communication and work progress monitoring of other team mates.
-    discord was used for external live team meetings
-    
     
 
 ## usage
